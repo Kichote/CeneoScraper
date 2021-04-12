@@ -8,7 +8,7 @@ opinionsList = []
 
 while respons:
     
-    print(page)
+    
     
     pageDOM = BeautifulSoup(respons.text, 'html.parser')
 
